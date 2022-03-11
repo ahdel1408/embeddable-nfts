@@ -1,0 +1,15 @@
+‏tokenAddress* - ‏tokenId* - ‏horizontal- /assets/images/electrocat.png 600 بكسل ‏manual ‏orientationMode-
+‏width- ‏100% 250px. تقصير:388px ‏height- ارتفاع المعبود. السابق. القيم 40vh 300px. تقصير:560
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+ px ‏network- ‏mainnet ‏referrerAddress-
+‏<head>: ‏<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+‏<nft-card
+‏  tokenAddress="0x5caebd3b32e210e85ce3e9d51638b9c445481567"
+‏  tokenId="2242579050293992223"
+‏  network="mainnet"
+‏  referrerAddress="YOUR_ADDRESS_HERE"
+  >
+‏</nft-card> ‏git clone https://github.com/ProjectOpenSea/embeddable_nfts.git
+‏  cd embeddable_nfts
+‏  yarn install
+‏  yarn run dev:demo 
